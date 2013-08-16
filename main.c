@@ -13,4 +13,10 @@ int main(char* argc, char *argv[])
 {
 	char *value = "Hsohiyar";
 	return value;
+}}
+
+
+int air(Print* print)
+{
+	return 0;
 }
