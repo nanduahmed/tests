@@ -6,3 +6,11 @@ int main(char* argc, char *argv[])
 	char *ptr = "Nandu Ahmed";
 	return 0;
 }
+
+// The file should have this function as well
+
+(char*) giveNameToFear()
+{
+	char *value = "Hsohiyar";
+	return value;
+}
