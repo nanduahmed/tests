@@ -6,3 +6,9 @@ int io(int var)
 	return 0;
 
 }
+
+
+int average(int count, int value)
+{
+	return 0;
+}
