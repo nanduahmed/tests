@@ -7,8 +7,3 @@ int io(int var)
 
 }
 
-
-int average(int count, int value)
-{
-	return 0;
-}
