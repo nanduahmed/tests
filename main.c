@@ -23,7 +23,7 @@ int air(Print* print)
 
 // Comment
 
-// Insert the Help Branch Code
+// Insert the Help Branch Deleting code from main.c on help branch
 (char*) helper (int code)
 {
 	const char* value = "Politics";
