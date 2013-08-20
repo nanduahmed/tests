@@ -21,3 +21,12 @@ int air(Print* print)
 {
 	return 0;
 }
+
+// Comment
+
+// Insert the Help Branch Deleting code from main.c on help branch
+(char*) helper (int code)
+{
+	const char* value = "Politics";
+	return value;
+}
